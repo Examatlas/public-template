@@ -3,10 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 First, run the development server:
 
+install :` npm install --legacy-peer-deps`
 ```bash
-```intasll : npm install --legacy-peer-deps```
-
-
 npm run dev
 # or
 yarn dev
